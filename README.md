@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 02 2020 14:04:34 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Dec 02 2020 15:03:56 GMT+0800 (CST) -->
 1. [12 月 1 日世界艾滋病日](https://www.zhihu.com/search?q=艾滋病)
 1. [陈铭](https://www.zhihu.com/search?q=陈铭)
 1. [武汉首家茶颜悦色开业](https://www.zhihu.com/search?q=茶颜悦色)
