@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 02 2020 10:04:15 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Dec 02 2020 11:04:17 GMT+0800 (CST) -->
 1. [12 月 1 日世界艾滋病日](https://www.zhihu.com/search?q=艾滋病)
+1. [嫦娥五号成功落月](https://www.zhihu.com/search?q=嫦娥五号)
 1. [陈铭](https://www.zhihu.com/search?q=陈铭)
 1. [武汉首家茶颜悦色开业](https://www.zhihu.com/search?q=茶颜悦色)
 1. [大一男生杀害大三女友](https://www.zhihu.com/search?q=锦江学院)
-1. [上海离婚登记将改为预约](https://www.zhihu.com/search?q=离婚冷静期)
 1. [微博画家「玫瑰机关枪」自杀](https://www.zhihu.com/search?q=玫瑰机关枪)
+1. [上海离婚登记将改为预约](https://www.zhihu.com/search?q=离婚冷静期)
 1. [联想拯救者 R9000X 和 Y9000X ](https://www.zhihu.com/search?q=r9000x)
 1. [4 月大男婴被放进冰箱](https://www.zhihu.com/search?q=男婴冰箱)
 1. [马首正式回归圆明园](https://www.zhihu.com/search?q=马首)
