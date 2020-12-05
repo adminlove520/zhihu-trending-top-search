@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 06 2020 06:05:05 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Dec 06 2020 07:04:19 GMT+0800 (CST) -->
 1. [电影《怪物猎人》上映](https://www.zhihu.com/search?q=怪物猎人电影)
 1. [警察「注视」女生溺亡](https://www.zhihu.com/search?q=警察注视女生溺亡)
 1. [电影《冷血狂宴》网播](https://www.zhihu.com/search?q=冷血狂宴)
