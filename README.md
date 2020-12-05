@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 06 2020 01:05:57 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Dec 06 2020 02:04:03 GMT+0800 (CST) -->
 1. [电影《怪物猎人》上映](https://www.zhihu.com/search?q=怪物猎人电影)
 1. [电影《冷血狂宴》网播](https://www.zhihu.com/search?q=冷血狂宴)
 1. [警察「注视」女生溺亡](https://www.zhihu.com/search?q=警察注视女生溺亡)
@@ -24,6 +24,7 @@
 1. [肖战《演员请就位》决赛](https://www.zhihu.com/search?q=肖战演员请就位)
 1. [男童幼儿园趴睡死亡](https://www.zhihu.com/search?q=幼儿园午睡死亡)
 1. [谈莉娜被记者问哭](https://www.zhihu.com/search?q=谈莉娜)
+1. [超千万人承受极端通勤](https://www.zhihu.com/search?q=极端通勤)
 1. [Nvidia 发布 3060ti ](https://www.zhihu.com/search?q=3060ti)
 <!-- END -->
 
