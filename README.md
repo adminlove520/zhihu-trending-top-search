@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 07 2020 06:05:05 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Dec 07 2020 07:04:19 GMT+0800 (CST) -->
 1. [警察「注视」女生溺亡](https://www.zhihu.com/search?q=警察注视女生溺亡)
 1. [《追光吧！哥哥》首播](https://www.zhihu.com/search?q=追光吧哥哥)
 1. [电影《冷血狂宴》](https://www.zhihu.com/search?q=冷血狂宴)
@@ -23,8 +23,8 @@
 1. [超千万人承受极端通勤](https://www.zhihu.com/search?q=极端通勤)
 1. [错换人生当事人生母撤诉](https://www.zhihu.com/search?q=错换人生)
 1. [重庆煤矿事故 23 人遇难](https://www.zhihu.com/search?q=重庆永川煤矿)
-1. [KPL 秋季赛胜者组决赛](https://www.zhihu.com/search?q=ag)
 1. [ 《舞蹈风暴》第二季](https://www.zhihu.com/search?q=舞蹈风暴第二季)
+1. [KPL 秋季赛胜者组决赛](https://www.zhihu.com/search?q=ag)
 1. [咬文嚼字 2020 流行语](https://www.zhihu.com/search?q=2020流行语)
 <!-- END -->
 
