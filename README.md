@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 06 2020 18:06:15 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Dec 06 2020 19:04:12 GMT+0800 (CST) -->
 1. [警察「注视」女生溺亡](https://www.zhihu.com/search?q=警察注视女生溺亡)
-1. [《追光吧！哥哥》首播](https://www.zhihu.com/search?q=追光吧哥哥)
 1. [肖战《演员请就位》决赛](https://www.zhihu.com/search?q=肖战演员请就位)
 1. [电影《赤狐书生》](https://www.zhihu.com/search?q=赤狐书生)
 1. [超千万人承受极端通勤](https://www.zhihu.com/search?q=极端通勤)
+1. [《追光吧！哥哥》首播](https://www.zhihu.com/search?q=追光吧哥哥)
 1. [重庆煤矿事故 18 人遇难](https://www.zhihu.com/search?q=重庆永川煤矿)
 1. [ 《舞蹈风暴》第二季](https://www.zhihu.com/search?q=舞蹈风暴第二季)
 1. [家长高调给老师送锦旗](https://www.zhihu.com/search?q=家长送锦旗)
