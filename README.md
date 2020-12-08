@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 09 2020 05:04:15 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Dec 09 2020 06:05:21 GMT+0800 (CST) -->
 1. [苹果发布 AirPods Max 头戴式耳机](https://www.zhihu.com/search?q=airpods max)
 1. [成都确诊病例孙女被「网暴」](https://www.zhihu.com/search?q=成都孙女)
 1. [成都新增 3 例确诊病例](https://www.zhihu.com/search?q=成都新增)
