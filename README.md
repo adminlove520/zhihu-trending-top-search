@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 10 2020 23:04:23 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Dec 11 2020 00:06:23 GMT+0800 (CST) -->
 1. [2077 正式解禁](https://www.zhihu.com/search?q=赛博朋克2077)
 1. [部分男性对丁真的态度](https://www.zhihu.com/search?q=丁真)
 1. [赵斗顺本周六刑满释放](https://www.zhihu.com/search?q=素媛案)
@@ -25,13 +25,6 @@
 1. [2020 年双十二购物节](https://www.zhihu.com/search?q=双十二)
 1. [丁真小马珍珠回应质疑](https://www.zhihu.com/search?q=丁真小马)
 1. [《电锯人》动画化](https://www.zhihu.com/search?q=电锯人)
-1. [苹果发布 AirPods Max 头戴式耳机](https://www.zhihu.com/search?q=airpods max)
-1. [2020 下半年教资成绩公布](https://www.zhihu.com/search?q=教资成绩)
-1. [素媛案主犯希望和受害者见面](https://www.zhihu.com/search?q=素媛案)
-1. [《天官赐福》即将影视化](https://www.zhihu.com/search?q=天官赐福)
-1. [教师资格证面试](https://www.zhihu.com/search?q=教资面试怎么准备)
-1. [成都新增 3 例确诊病例](https://www.zhihu.com/search?q=成都新增)
-1. [东南大学万某失去推免资格](https://www.zhihu.com/search?q=东南大学)
 <!-- END -->
 
 历史归档 [./archives](./archives)
