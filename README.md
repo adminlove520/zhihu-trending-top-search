@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 12 2020 05:03:50 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Dec 12 2020 06:05:06 GMT+0800 (CST) -->
 1. [2077 正式解禁](https://www.zhihu.com/search?q=赛博朋克2077)
 1. [网传金基德因新冠逝世](https://www.zhihu.com/search?q=金基德)
 1. [TGA 年度游戏](https://www.zhihu.com/search?q=tga)
