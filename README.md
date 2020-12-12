@@ -14,16 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 12 2020 21:04:09 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Dec 12 2020 22:04:43 GMT+0800 (CST) -->
 1. [泡泡玛特市值破 1000 亿](https://www.zhihu.com/search?q=泡泡玛特)
 1. [英语四六级考试](https://www.zhihu.com/search?q=四六级考试)
-1. [韩国导演金基德逝世](https://www.zhihu.com/search?q=金基德)
 1. [素媛案罪犯赵斗顺出狱](https://www.zhihu.com/search?q=素媛案罪犯)
+1. [韩国导演金基德逝世](https://www.zhihu.com/search?q=金基德)
 1. [霉霉新专辑《evermore》](https://www.zhihu.com/search?q=evermore)
 1. [TGA 年度游戏](https://www.zhihu.com/search?q=tga)
 1. [苏宁回应「股权质押」](https://www.zhihu.com/search?q=苏宁)
-1. [保罗乔治顶薪续约快船](https://www.zhihu.com/search?q=保罗乔治)
 1. [新疆吐鲁番疫情](https://www.zhihu.com/search?q=新疆疫情)
+1. [保罗乔治顶薪续约快船](https://www.zhihu.com/search?q=保罗乔治)
 1. [网红拉姆前夫被批捕](https://www.zhihu.com/search?q=拉姆前夫)
 1. [去世 12 年被偷挖配阴亲](https://www.zhihu.com/search?q=阴亲)
 1. [斗罗大陆动画更新](https://www.zhihu.com/search?q=斗罗大陆动画)
