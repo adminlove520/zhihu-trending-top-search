@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 15 2020 19:04:32 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Dec 15 2020 20:06:00 GMT+0800 (CST) -->
 1. [王栎鑫宣布与吴雅婷离婚](https://www.zhihu.com/search?q=王栎鑫吴雅婷)
 1. [素媛案罪犯禁止夜间外出](https://www.zhihu.com/search?q=素媛案)
 1. [「百香果女童」案新案情](https://www.zhihu.com/search?q=百香果女孩)
