@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 16 2020 19:04:27 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Dec 16 2020 20:06:01 GMT+0800 (CST) -->
 1. [中芯国际梁孟松被曝辞职](https://www.zhihu.com/search?q=梁孟松)
 1. [电视剧《有翡》定档](https://www.zhihu.com/search?q=有翡)
 1. [HarmonyOS 2.0 Beta 版](https://www.zhihu.com/search?q=鸿蒙os2.0)
