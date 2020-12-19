@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 20 2020 01:26:33 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Dec 20 2020 02:09:05 GMT+0800 (CST) -->
 1. [《奇葩说》千人奇葩捞](https://www.zhihu.com/search?q=奇葩说)
 1. [北京新增 2 例境外输入关联病例](https://www.zhihu.com/search?q=北京疫情)
 1. [富大龙发微博为张鲁一说话](https://www.zhihu.com/search?q=张鲁一)
