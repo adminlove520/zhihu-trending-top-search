@@ -14,16 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 25 2020 15:12:03 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Dec 25 2020 16:06:35 GMT+0800 (CST) -->
 1. [阿里巴巴涉嫌垄断被调查](https://www.zhihu.com/search?q=阿里巴巴)
 1. [猎奇漫画作者 JM 被刑拘](https://www.zhihu.com/search?q=jm帝国漫画)
 1. [平安夜宝藏配图文案](https://www.zhihu.com/search?q=平安夜)
+1. [Steam 圣诞特惠](https://www.zhihu.com/search?q=steam)
 1. [圣诞节文案准备好了吗？](https://www.zhihu.com/search?q=圣诞节祝福)
+1. [使命召唤手游开服](https://www.zhihu.com/search?q=使命召唤手游)
 1. [蒋凡「杭州高层次人才」](https://www.zhihu.com/search?q=蒋凡)
+1. [北京新增 2 例无症状](https://www.zhihu.com/search?q=北京疫情)
 1. [微信推出「微信豆」](https://www.zhihu.com/search?q=微信豆)
 1. [英国欧盟达成脱欧贸易协议](https://www.zhihu.com/search?q=英国脱欧)
-1. [北京新增 2 例无症状](https://www.zhihu.com/search?q=北京疫情)
-1. [使命召唤手游开服](https://www.zhihu.com/search?q=使命召唤手游)
 1. [电梯骤降自救女子发声](https://www.zhihu.com/search?q=女子电梯逃生)
 1. [北大学子弑母案开庭](https://www.zhihu.com/search?q=北大弑母案)
 1. [五月天《因为你 所以我》](https://www.zhihu.com/search?q=五月天)
