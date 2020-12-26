@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 26 2020 10:29:24 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Dec 26 2020 11:13:12 GMT+0800 (CST) -->
 1. [电影《晴雅集》](https://www.zhihu.com/search?q=晴雅集)
 1. [电影《拆弹专家2》](https://www.zhihu.com/search?q=拆弹专家2)
 1. [吴谢宇弑母案庭审细节](https://www.zhihu.com/search?q=北大吴谢宇)
