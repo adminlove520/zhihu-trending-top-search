@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 29 2020 08:19:51 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Dec 29 2020 09:58:31 GMT+0800 (CST) -->
 1. [小米 11 发布](https://www.zhihu.com/search?q=小米11)
 1. [脱口秀反跨年杨笠](https://www.zhihu.com/search?q=杨笠)
 1. [进击的巨人第四话](https://www.zhihu.com/search?q=进击的巨人)
@@ -22,9 +22,10 @@
 1. [百香果女童案凶手获死刑](https://www.zhihu.com/search?q=百香果女童)
 1. [明星「健康宝照片」被售卖](https://www.zhihu.com/search?q=健康宝明星)
 1. [郑爽发文](https://www.zhihu.com/search?q=郑爽)
+1. [钢琴家傅聪感染新冠去世](https://www.zhihu.com/search?q=傅聪去世)
 1. [2021 考研数学难度如何？](https://www.zhihu.com/search?q=考研数学)
-1. [日本将暂停新入境](https://www.zhihu.com/search?q=日本)
 1. [网易云 2020 年度报告](https://www.zhihu.com/search?q=网易云)
+1. [日本将暂停新入境](https://www.zhihu.com/search?q=日本)
 <!-- END -->
 
 历史归档 [./archives](./archives)
