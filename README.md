@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 01 2021 19:13:36 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Jan 01 2021 20:07:59 GMT+0800 (CST) -->
 1. [易烊千玺新片《送你一朵小红花》](https://www.zhihu.com/search?q=送你一朵小红花)
 1. [华为全面下架腾讯游戏](https://www.zhihu.com/search?q=华为下架腾讯)
 1. [玄彬孙艺珍被曝已恋爱](https://www.zhihu.com/search?q=玄彬孙艺珍)
@@ -24,6 +24,7 @@
 1. [2020 最后一天](https://www.zhihu.com/search?q=2020最后一天)
 1. [北京新增 5 例本土确诊病例](https://www.zhihu.com/search?q=北京新增)
 1. [31 省新增确诊 19 例](https://www.zhihu.com/search?q=疫情新增)
+1. [网爆大连理工大学发生车祸](https://www.zhihu.com/search?q=大连理工大学)
 1. [美国确诊人数突破 2000 万](https://www.zhihu.com/search?q=美国疫情)
 1. [郭敬明向庄羽道歉](https://www.zhihu.com/search?q=郭敬明道歉)
 1. [于正向琼瑶道歉](https://www.zhihu.com/search?q=于正道歉)
