@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 01 2021 23:06:51 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Jan 02 2021 00:16:55 GMT+0800 (CST) -->
 1. [易烊千玺新片《送你一朵小红花》](https://www.zhihu.com/search?q=送你一朵小红花)
 1. [华为全面下架腾讯游戏](https://www.zhihu.com/search?q=华为下架腾讯)
 1. [玄彬孙艺珍被曝已恋爱](https://www.zhihu.com/search?q=玄彬孙艺珍)
@@ -25,16 +25,6 @@
 1. [北京新增 5 例本土确诊病例](https://www.zhihu.com/search?q=北京新增)
 1. [31 省新增确诊 19 例](https://www.zhihu.com/search?q=疫情新增)
 1. [网爆大连理工大学发生车祸](https://www.zhihu.com/search?q=大连理工大学)
-1. [美国确诊人数突破 2000 万](https://www.zhihu.com/search?q=美国疫情)
-1. [郭敬明向庄羽道歉](https://www.zhihu.com/search?q=郭敬明道歉)
-1. [于正向琼瑶道歉](https://www.zhihu.com/search?q=于正道歉)
-1. [2020 跨年文案准备好了吗？](https://www.zhihu.com/search?q=2020最后一天文案 )
-1. [快手将全员开启大小周](https://www.zhihu.com/search?q=快手大小周)
-1. [辛巴直播间网购后数人被骗](https://www.zhihu.com/search?q=辛巴电信诈骗)
-1. [美团遭遇反垄断诉讼](https://www.zhihu.com/search?q=美团)
-1. [西南民族大学教师讨还绩效](https://www.zhihu.com/search?q=西南民族大学)
-1. [VIVO X60 系列全球首发](https://www.zhihu.com/search?q=vivox60)
-1. [美团饿了么年度外卖账单](https://www.zhihu.com/search?q=美团年度账单)
 <!-- END -->
 
 历史归档 [./archives](./archives)
