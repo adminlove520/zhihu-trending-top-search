@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 09 2021 05:09:38 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Jan 09 2021 06:13:29 GMT+0800 (CST) -->
 1. [比特币突破 4 万美金大关](https://www.zhihu.com/search?q=比特币)
 1. [女子长期过量喝奶茶进 ICU](https://www.zhihu.com/search?q=喝奶茶进icu)
 1. [电视剧版《赘婿》被抵制](https://www.zhihu.com/search?q=赘婿)
