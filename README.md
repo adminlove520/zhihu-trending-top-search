@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 09 2021 23:09:19 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Jan 10 2021 00:22:30 GMT+0800 (CST) -->
 1. [推特永久停用特朗普账号](https://www.zhihu.com/search?q=特朗普推特)
 1. [女子长期过量喝奶茶进 ICU](https://www.zhihu.com/search?q=喝奶茶进icu)
 1. [教师资格证面试](https://www.zhihu.com/search?q=教资面试)
@@ -23,14 +23,8 @@
 1. [2021 山东高考英语听力](https://www.zhihu.com/search?q=山东高考听力)
 1. [河北新增 14 例本土确诊](https://www.zhihu.com/search?q=河北新增)
 1. [全棉时代广告被指侮辱女性](https://www.zhihu.com/search?q=全棉时代)
+1. [拼多多员工家中跳楼自杀](https://www.zhihu.com/search?q=拼多多员工跳楼)
 1. [婴儿用抑菌霜成大头娃娃](https://www.zhihu.com/search?q=婴儿抑菌霜)
-1. [柯洁「我无法战胜 AI」](https://www.zhihu.com/search?q=柯洁)
-1. [电视剧版《赘婿》被抵制](https://www.zhihu.com/search?q=赘婿)
-1. [拜登当选美国总统](https://www.zhihu.com/search?q=拜登)
-1. [河北新增本土确诊 33 例](https://www.zhihu.com/search?q=河北新增)
-1. [应届生拒绝 996 被申通辞退](https://www.zhihu.com/search?q=申通996)
-1. [特朗普支持者闯入美国国会](https://www.zhihu.com/search?q=特朗普支持者)
-1. [全国多地倡议就地过年](https://www.zhihu.com/search?q=就地过年)
 <!-- END -->
 
 历史归档 [./archives](./archives)
