@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 10 2021 02:41:15 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Jan 10 2021 03:27:59 GMT+0800 (CST) -->
 1. [推特永久停用特朗普账号](https://www.zhihu.com/search?q=特朗普推特)
 1. [女子长期过量喝奶茶进 ICU](https://www.zhihu.com/search?q=喝奶茶进icu)
 1. [教师资格证面试](https://www.zhihu.com/search?q=教资面试)
