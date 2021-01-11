@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 11 2021 13:29:59 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Jan 11 2021 14:20:44 GMT+0800 (CST) -->
 1. [空军宣传片疑似出现轰 20 ](https://www.zhihu.com/search?q=轰20)
 1. [年轻人猝死的三大导火索](https://www.zhihu.com/search?q=年轻人猝死)
 1. [印尼一架航班失联](https://www.zhihu.com/search?q=印尼航班失联)
 1. [芝加哥枪击案致 3 死 4 伤](https://www.zhihu.com/search?q=芝加哥枪击)
-1. [教师资格证面试](https://www.zhihu.com/search?q=教资面试)
 1. [黄晓明发文退出浪姐 2](https://www.zhihu.com/search?q=黄晓明退出浪姐)
+1. [教师资格证面试](https://www.zhihu.com/search?q=教资面试)
 1. [《奇葩说第七季》第六期](https://www.zhihu.com/search?q=奇葩说第七季)
 1. [河北新增 82 例本土确诊](https://www.zhihu.com/search?q=河北新增)
 1. [拼多多回应解约发帖员工](https://www.zhihu.com/search?q=拼多多回应辞退)
