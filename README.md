@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 13 2021 14:27:05 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Jan 13 2021 15:34:11 GMT+0800 (CST) -->
 1. [丁真被曝抽烟人设崩塌](https://www.zhihu.com/search?q=丁真抽烟)
 1. [外卖员为要血汗钱自焚](https://www.zhihu.com/search?q=外卖员自焚)
 1. [网传辉瑞疫苗有效率为 29%](https://www.zhihu.com/search?q=辉瑞疫苗)
@@ -22,9 +22,9 @@
 1. [河北新增本土确诊 90 例](https://www.zhihu.com/search?q=河北新增)
 1. [比亚迪超级混动 DM-i](https://www.zhihu.com/search?q=比亚迪)
 1. [多省市倡导「就地过年」](https://www.zhihu.com/search?q=就地过年)
+1. [山东一金矿爆炸 22 人被困](https://www.zhihu.com/search?q=山东金矿)
 1. [科兴疫苗总保护效力 50.4％](https://www.zhihu.com/search?q=科兴疫苗)
 1. [李子柒做泡菜遭韩网友围攻](https://www.zhihu.com/search?q=李子柒泡菜)
-1. [山东一金矿爆炸 22 人被困](https://www.zhihu.com/search?q=山东金矿)
 1. [iQOO 7 系列手机发布](https://www.zhihu.com/search?q=iqoo7)
 1. [意大利女子 19 年 11 月感染新冠](https://www.zhihu.com/search?q=意大利新冠)
 1. [联盟将调查欧文聚会视频](https://www.zhihu.com/search?q=欧文)
