@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 16 2021 14:26:38 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Jan 16 2021 15:32:47 GMT+0800 (CST) -->
 1. [中国情侣在柬埔寨遇害](https://www.zhihu.com/search?q=中国情侣柬埔寨)
 1. [「Steam 中国」2021 年初上线](https://www.zhihu.com/search?q=steam中国)
 1. [白酒股价全线下跌](https://www.zhihu.com/search?q=白酒股大跌)
