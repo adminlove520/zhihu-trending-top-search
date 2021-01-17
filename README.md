@@ -14,7 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 17 2021 23:16:44 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Jan 18 2021 00:28:59 GMT+0800 (CST) -->
+1. [潘博文事件](https://www.zhihu.com/search?q=潘博文事件)
 1. [半藏森林发长文](https://www.zhihu.com/search?q=半藏森林)
 1. [如何评价《流金岁月》大结局？](https://www.zhihu.com/search?q=流金岁月)
 1. [电视剧《山海情》](https://www.zhihu.com/search?q=山海情)
@@ -24,17 +25,6 @@
 1. [篮网 122：115 胜魔术](https://www.zhihu.com/search?q=哈登)
 1. [《王者荣耀》新英雄「司空震」](https://www.zhihu.com/search?q=司空震)
 1. [官方公布孙杨禁赛判决撤销原因](https://www.zhihu.com/search?q=孙杨)
-1. [《我就是演员 第三季》第五期](https://www.zhihu.com/search?q=我就是演员)
-1. [半藏森林澄清系误会](https://www.zhihu.com/search?q=半藏森林)
-1. [山海情](https://www.zhihu.com/search?q=山海情)
-1. [婴儿霜「大头娃娃」事件通报](https://www.zhihu.com/search?q=大头娃娃)
-1. [仙剑奇侠传七开放试玩](https://www.zhihu.com/search?q=仙剑奇侠传七)
-1. [如何评价钉钉 6.0 发布会](https://www.zhihu.com/search?q=钉钉)
-1. [中国情侣在柬埔寨遇害](https://www.zhihu.com/search?q=中国情侣柬埔寨)
-1. [白酒股价全线下跌](https://www.zhihu.com/search?q=白酒股大跌)
-1. [河北新增 90 例本土确诊](https://www.zhihu.com/search?q=河北新增)
-1. [小米被美国加入黑名单](https://www.zhihu.com/search?q=小米被制裁)
-1. [上海拟建设「结婚冷静期」](https://www.zhihu.com/search?q=结婚冷静期)
 <!-- END -->
 
 历史归档 [./archives](./archives)
