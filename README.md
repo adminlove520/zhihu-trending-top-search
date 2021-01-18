@@ -1,4 +1,4 @@
-# zhihu-trending-top-search
+# zhihu-trending-top-search1
 
 [![Build Status](https://github.com/justjavac/zhihu-trending-top-search/workflows/ci/badge.svg?branch=main)](https://github.com/justjavac/zhihu-trending-top-search/actions)
 [![license](https://img.shields.io/github/license/justjavac/zhihu-trending-top-search)](https://github.com/justjavac/zhihu-trending-top-search/blob/main/LICENSE)
