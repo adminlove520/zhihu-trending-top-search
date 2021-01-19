@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 20 2021 02:59:17 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Jan 20 2021 04:00:21 GMT+0800 (CST) -->
 1. [郑爽再次回应](https://www.zhihu.com/search?q=郑爽回应)
 1. [郑爽录音再爆出](https://www.zhihu.com/search?q=郑爽录音)
 1. [外交部喊话美国](https://www.zhihu.com/search?q=德特里克堡)
@@ -24,6 +24,7 @@
 1. [Prada 股价直线下跌](https://www.zhihu.com/search?q=prada股价)
 1. [女童疑遭养母虐死案开庭](https://www.zhihu.com/search?q=郑仁)
 1. [山东金矿井下补给已被取走](https://www.zhihu.com/search?q=金矿事故)
+1. [字节跳动暂停手机业务](https://www.zhihu.com/search?q=字节跳动)
 1. [中国 GDP 首超 100 万亿元](https://www.zhihu.com/search?q=中国gdp)
 <!-- END -->
 
