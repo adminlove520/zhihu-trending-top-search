@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 20 2021 19:00:24 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Jan 20 2021 20:54:55 GMT+0800 (CST) -->
 1. [郑爽再次回应](https://www.zhihu.com/search?q=郑爽回应)
 1. [娱乐圈那些真实的瓜](https://www.zhihu.com/search?q=娱乐圈有什么真实的瓜)
 1. [郑爽录音再爆出](https://www.zhihu.com/search?q=郑爽录音)
 1. [外交部喊话美国](https://www.zhihu.com/search?q=德特里克堡)
 1. [春节返乡需持核酸检测证明](https://www.zhihu.com/search?q=春节返乡)
-1. [Prada 终止与郑爽合作](https://www.zhihu.com/search?q=prada)
-1. [郑爽诉张恒案二审开庭](https://www.zhihu.com/search?q=郑爽起诉)
 1. [浙大食堂惊现「耗子尾汁」](https://www.zhihu.com/search?q=浙大食堂)
+1. [郑爽诉张恒案二审开庭](https://www.zhihu.com/search?q=郑爽起诉)
+1. [Prada 终止与郑爽合作](https://www.zhihu.com/search?q=prada)
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=大兴疫情)
 1. [北京大兴疫情新进展](https://www.zhihu.com/search?q=大兴疫情)
 1. [成都双流金桥检出环境阳性](https://www.zhihu.com/search?q=成都双流金桥)
