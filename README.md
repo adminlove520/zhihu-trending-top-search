@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 21 2021 19:54:56 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Jan 21 2021 20:55:04 GMT+0800 (CST) -->
 1. [春节返乡需持核酸检测证明](https://www.zhihu.com/search?q=春节返乡)
 1. [《广电时评》发文](https://www.zhihu.com/search?q=广电封杀郑爽)
 1. [郑爽录音再爆出](https://www.zhihu.com/search?q=郑爽录音)
 1. [外交部喊话美国](https://www.zhihu.com/search?q=德特里克堡)
+1. [《奇葩说》第七季第九期](https://www.zhihu.com/search?q=奇葩说)
 1. [浙大食堂惊现「耗子尾汁」](https://www.zhihu.com/search?q=浙大食堂)
 1. [中方对蓬佩奥等人实施制裁](https://www.zhihu.com/search?q=制裁蓬佩奥)
 1. [坂本龙一确诊直肠癌](https://www.zhihu.com/search?q=坂本龙一)
