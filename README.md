@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 22 2021 05:36:18 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Jan 22 2021 06:45:13 GMT+0800 (CST) -->
 1. [《广电时评》发文](https://www.zhihu.com/search?q=广电封杀郑爽)
 1. [春节返乡需持核酸检测证明](https://www.zhihu.com/search?q=春节返乡)
 1. [《奇葩说》第七季第九期](https://www.zhihu.com/search?q=奇葩说)
