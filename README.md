@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 23 2021 22:47:02 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Jan 23 2021 23:37:30 GMT+0800 (CST) -->
 1. [会理县回应墨茶去世 ](https://www.zhihu.com/search?q=墨茶)
 1. [华晨宇张碧晨未婚生子](https://www.zhihu.com/search?q=华晨宇张碧晨)
 1. [主播墨茶 Official 因病去世](https://www.zhihu.com/search?q=墨茶去世)
