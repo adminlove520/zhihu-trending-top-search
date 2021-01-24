@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 24 2021 18:57:43 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Jan 24 2021 19:51:12 GMT+0800 (CST) -->
 1. [饶毅举报裴钢涉嫌学术不端](https://www.zhihu.com/search?q=饶毅)
 1. [乘风破浪的姐姐 2 开播](https://www.zhihu.com/search?q=乘风破浪的姐姐第二季)
 1. [独立女性要不要收彩礼 ？](https://www.zhihu.com/search?q=奇葩说)
