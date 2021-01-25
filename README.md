@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 25 2021 09:41:24 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Jan 25 2021 11:22:37 GMT+0800 (CST) -->
 1. [饶毅举报裴钢涉嫌学术不端](https://www.zhihu.com/search?q=饶毅)
 1. [独立女性要不要收彩礼 ？](https://www.zhihu.com/search?q=奇葩说)
 1. [乘风破浪的姐姐 2 开播](https://www.zhihu.com/search?q=乘风破浪的姐姐第二季)
@@ -23,6 +23,8 @@
 1. [敦煌万亩防护林遭砍伐](https://www.zhihu.com/search?q=敦煌)
 1. [华为 P50 爆料](https://www.zhihu.com/search?q=华为p50)
 1. [ MIT 教授张曙光致信饶毅](https://www.zhihu.com/search?q=饶毅裴刚)
+1. [北京新增本地确诊 3 例](https://www.zhihu.com/search?q=北京新增)
+1. [黑龙江新增确诊 35 例](https://www.zhihu.com/search?q=黑龙江新增)
 1. [湖南益阳养老院疑似诈骗](https://www.zhihu.com/search?q=养老院诈骗)
 <!-- END -->
 
