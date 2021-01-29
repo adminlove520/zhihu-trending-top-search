@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 29 2021 15:27:17 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Jan 29 2021 16:31:49 GMT+0800 (CST) -->
 1. [孟佳半裸造型涉嫌抄袭](https://www.zhihu.com/search?q=孟佳)
 1. [美国散户遭全面围剿](https://www.zhihu.com/search?q=游戏驿站)
-1. [微信状态背景图推荐](https://www.zhihu.com/search?q=微信状态背景图)
 1. [小米首发自研隔空充电技术](https://www.zhihu.com/search?q=小米隔空充电)
+1. [微信状态背景图推荐](https://www.zhihu.com/search?q=微信状态背景图)
 1. [戴森球计划](https://www.zhihu.com/search?q=戴森球计划)
 1. [「樊胜美」弟弟疑似被网暴](https://www.zhihu.com/search?q=现实版樊胜美)
 1. [吴谦「台独就意味着战争」](https://www.zhihu.com/search?q=台独)
