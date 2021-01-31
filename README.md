@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 31 2021 18:27:18 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Jan 31 2021 19:23:07 GMT+0800 (CST) -->
 1. [陈翔否认当年出轨事件](https://www.zhihu.com/search?q=陈翔)
 1. [毛晓彤陈翔录音曝光](https://www.zhihu.com/search?q=毛晓彤陈翔录音)
-1. [小米起诉美国政府](https://www.zhihu.com/search?q=小米)
 1. [汪峰新歌《没有人在乎》](https://www.zhihu.com/search?q=汪峰新歌)
+1. [小米起诉美国政府](https://www.zhihu.com/search?q=小米)
 1. [知乎晚会有什么亮点？](https://www.zhihu.com/search?q=知乎晚会)
 1. [海贼王 1002 话](https://www.zhihu.com/search?q=海贼王)
 1. [BLACKPINK 线上演唱会](https://www.zhihu.com/search?q=blackpink)
