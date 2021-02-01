@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 01 2021 22:25:49 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Feb 01 2021 23:23:49 GMT+0800 (CST) -->
 1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
 1. [毛晓彤陈翔录音曝光](https://www.zhihu.com/search?q=毛晓彤陈翔录音)
 1. [社交软件 Clubhouse 爆火](https://www.zhihu.com/search?q=clubhouse)
