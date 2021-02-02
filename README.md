@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 02 2021 20:35:14 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Feb 02 2021 21:31:43 GMT+0800 (CST) -->
 1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
 1. [社交软件 Clubhouse 爆火](https://www.zhihu.com/search?q=clubhouse)
-1. [王书金被执行死刑](https://www.zhihu.com/search?q=王书金)
 1. [广州 2 月离婚名额已约满](https://www.zhihu.com/search?q=预约离婚)
+1. [王书金被执行死刑](https://www.zhihu.com/search?q=王书金)
 1. [2021 支付宝集五福](https://www.zhihu.com/search?q=支付宝五福)
 1. [假活佛 10 年骗财 2 亿](https://www.zhihu.com/search?q=假活佛)
 1. [贾平凹女儿诗歌引质疑](https://www.zhihu.com/search?q=贾平凹女儿)
