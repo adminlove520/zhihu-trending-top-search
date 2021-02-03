@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 04 2021 06:22:40 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Feb 04 2021 07:21:52 GMT+0800 (CST) -->
 1. [人人影视字幕组被查处](https://www.zhihu.com/search?q=人人影视字幕组)
 1. [赵英俊去世](https://www.zhihu.com/search?q=赵英俊去世)
 1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
