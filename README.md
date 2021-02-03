@@ -14,18 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 03 2021 19:21:48 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Feb 03 2021 20:31:43 GMT+0800 (CST) -->
 1. [人人影视字幕组被查处](https://www.zhihu.com/search?q=人人影视字幕组)
 1. [赵英俊去世](https://www.zhihu.com/search?q=赵英俊去世)
 1. [立春](https://www.zhihu.com/search?q=立春)
-1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
 1. [抖音再次回应起诉腾讯](https://www.zhihu.com/search?q=抖音起诉腾讯)
 1. [贾平凹女儿诗歌引质疑](https://www.zhihu.com/search?q=贾平凹女儿)
+1. [石原里美感染新冠](https://www.zhihu.com/search?q=石原里美新冠)
 1. [学生模仿奥特曼被劝退](https://www.zhihu.com/search?q=学生模仿奥特曼)
 1. [SN9 试飞着陆时发生爆炸](https://www.zhihu.com/search?q=sn9)
-1. [石原里美感染新冠](https://www.zhihu.com/search?q=石原里美新冠)
-1. [篮网 124:120 险胜快船](https://www.zhihu.com/search?q=篮网)
+1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
 1. [缅甸军方对政府进行改组](https://www.zhihu.com/search?q=缅甸军方)
+1. [篮网 124:120 险胜快船](https://www.zhihu.com/search?q=篮网)
 1. [社交软件 Clubhouse 爆火](https://www.zhihu.com/search?q=clubhouse)
 1. [假活佛 10 年骗财 2 亿](https://www.zhihu.com/search?q=假活佛)
 1. [抖音正式起诉腾讯垄断](https://www.zhihu.com/search?q=抖音起诉腾讯)
