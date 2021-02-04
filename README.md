@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 04 2021 22:21:59 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Feb 04 2021 23:29:26 GMT+0800 (CST) -->
 1. [人人影视字幕组被查处](https://www.zhihu.com/search?q=人人影视字幕组)
 1. [柯洁痛失世界棋王赛冠军](https://www.zhihu.com/search?q=柯洁)
 1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
@@ -24,6 +24,7 @@
 1. [拜登政府坚持一个中国政策](https://www.zhihu.com/search?q=拜登政府)
 1. [为什么癌症越来越常见了？](https://www.zhihu.com/search?q=癌症)
 1. [石原里美感染新冠](https://www.zhihu.com/search?q=石原里美新冠)
+1. [网易云音乐再度回应酷狗](https://www.zhihu.com/search?q=网易云酷狗)
 1. [沈阳首位确诊患者去世](https://www.zhihu.com/search?q=沈阳尹老太)
 1. [抖音再次回应起诉腾讯](https://www.zhihu.com/search?q=抖音起诉腾讯)
 1. [贾平凹女儿诗歌引质疑](https://www.zhihu.com/search?q=贾平凹女儿)
