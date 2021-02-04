@@ -14,15 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 04 2021 11:20:55 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Feb 04 2021 12:25:37 GMT+0800 (CST) -->
 1. [人人影视字幕组被查处](https://www.zhihu.com/search?q=人人影视字幕组)
 1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
+1. [《光遇》梦想季改动](https://www.zhihu.com/search?q=光遇)
 1. [赵英俊去世](https://www.zhihu.com/search?q=赵英俊去世)
-1. [小年来啦](https://www.zhihu.com/search?q=小年)
 1. [石原里美感染新冠](https://www.zhihu.com/search?q=石原里美新冠)
+1. [为什么癌症越来越常见了？](https://www.zhihu.com/search?q=癌症)
+1. [沈阳首位确诊患者去世](https://www.zhihu.com/search?q=沈阳尹老太)
 1. [抖音再次回应起诉腾讯](https://www.zhihu.com/search?q=抖音起诉腾讯)
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [贾平凹女儿诗歌引质疑](https://www.zhihu.com/search?q=贾平凹女儿)
+1. [小年来啦](https://www.zhihu.com/search?q=小年)
 1. [《工作细胞》登陆央视](https://www.zhihu.com/search?q=工作细胞)
 1. [SN9 试飞着陆时发生爆炸](https://www.zhihu.com/search?q=sn9)
 1. [篮网 124:120 险胜快船](https://www.zhihu.com/search?q=篮网)
