@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 05 2021 09:45:20 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 05 2021 10:26:13 GMT+0800 (CST) -->
 1. [柯洁痛失世界棋王赛冠军](https://www.zhihu.com/search?q=柯洁)
 1. [拜登政府坚持一个中国政策](https://www.zhihu.com/search?q=拜登政府)
 1. [人人影视字幕组被查处](https://www.zhihu.com/search?q=人人影视字幕组)
+1. [虾米音乐正式关闭](https://www.zhihu.com/search?q=虾米音乐)
 1. [《光遇》梦想季改动](https://www.zhihu.com/search?q=光遇)
 1. [天才少年曹原再发 Nature](https://www.zhihu.com/search?q=曹原)
 1. [小年有哪些习俗](https://www.zhihu.com/search?q=小年)
