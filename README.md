@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 06 2021 22:20:35 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Feb 06 2021 23:19:54 GMT+0800 (CST) -->
 1. [恐怖游戏《烟火》](https://www.zhihu.com/search?q=烟火)
 1. [2021 美国大学生数学建模竞赛](https://www.zhihu.com/search?q=2021美赛)
 1. [德勤员工群发 PPT 举报违规](https://www.zhihu.com/search?q=德勤)
@@ -22,9 +22,9 @@
 1. [中国成功实施反导拦截试验](https://www.zhihu.com/search?q=陆基中段反导)
 1. [虾米音乐正式关闭](https://www.zhihu.com/search?q=虾米音乐)
 1. [快手上市首日开盘大涨](https://www.zhihu.com/search?q=快手上市)
-1. [中国演出行业协会发布新规](https://www.zhihu.com/search?q=劣迹艺人)
-1. [《节奏大师》宣布暂停运营](https://www.zhihu.com/search?q=节奏大师)
 1. [如何看待纸吸管的使用？](https://www.zhihu.com/search?q=纸吸管)
+1. [《节奏大师》宣布暂停运营](https://www.zhihu.com/search?q=节奏大师)
+1. [中国演出行业协会发布新规](https://www.zhihu.com/search?q=劣迹艺人)
 1. [进击的巨人漫画更新](https://www.zhihu.com/search?q=进击的巨人漫画)
 1. [小米四曲面瀑布屏概念手机](https://www.zhihu.com/search?q=小米手机)
 1. [柯洁痛失世界棋王赛冠军](https://www.zhihu.com/search?q=柯洁)
