@@ -14,7 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 08 2021 10:26:23 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Feb 08 2021 11:22:05 GMT+0800 (CST) -->
+1. [《无职转生》动画下架](https://www.zhihu.com/search?q=无职转生)
 1. [关菲菲](https://www.zhihu.com/search?q=关菲菲)
 1. [胡歌方辟谣与刘亦菲结婚](https://www.zhihu.com/search?q=胡歌刘亦菲)
 1. [《合成大西瓜》被指骗财](https://www.zhihu.com/search?q=合成大西瓜)
