@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 12 2021 00:34:20 GMT+0800 (CST) -->
-1. [除夕文案准备好了吗？](https://www.zhihu.com/search?q=除夕文案)
+<!-- 最后更新时间 Fri Feb 12 2021 01:29:05 GMT+0800 (CST) -->
 1. [春晚看点啥？](https://www.zhihu.com/search?q=春晚)
+1. [除夕文案准备好了吗？](https://www.zhihu.com/search?q=除夕文案)
 1. [春节祝福文案](https://www.zhihu.com/search?q=春节祝福文案)
 1. [拜年表情包来袭](https://www.zhihu.com/search?q=拜年表情包)
 1. [春节头像推荐](https://www.zhihu.com/search?q=新年头像)
